@@ -18,7 +18,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = "^3.11"
 discord-py = "^2.3.2"
-uvloop = { version = "^0.18", markers = "sys_platform == 'linux'" }
+uvloop = { version = "^0.19", markers = "sys_platform == 'linux'" }
 orjson = "^3.9.9"
 aiodns = "^3.1.1"
 brotli = "^1.1.0"
