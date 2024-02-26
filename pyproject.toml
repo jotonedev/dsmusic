@@ -24,7 +24,7 @@ orjson = "^3.9.14"
 aiodns = "^3.1.1"
 brotli = "^1.1.0"
 mafic = "^2.10.0"
-setuptools = "^69.1.0"
+setuptools = "^69.1.1"
 
 
 [build-system]
