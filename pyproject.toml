@@ -24,7 +24,7 @@ orjson = "^3.10"
 aiodns = "^3.2"
 brotli = "^1.1"
 mafic = "^2.10"
-setuptools = "^74"
+setuptools = "^75"
 
 
 [tool.poetry.group.test.dependencies]
